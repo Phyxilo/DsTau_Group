@@ -16,7 +16,7 @@ vector<int> discardedTracks;
 
 double dTLimit = 0.01;
 
-void TrueMCOT()
+void OverlappingTracks()
 {
   char TrueMCName[64];
 
